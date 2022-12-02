@@ -1,4 +1,4 @@
-# Test-Zadacha-Igra-Ugadayka
+# <a href="https://xant1.github.io/binary-search-igra-ugadayka/">Открыть игру</a>
 
 Игра в которой компьютер угадывает задуманное пользователем число от 1 до 100 с помощью алгоритма бинарного поиска.
 
